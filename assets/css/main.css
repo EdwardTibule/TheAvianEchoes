@@ -1337,10 +1337,10 @@ section,
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+  width: 527px;
   border-radius: 10px;
   border: 6px solid var(--background-color);
-  position: absolute;
+  position: relative;
   left: -45px;
 }
 
